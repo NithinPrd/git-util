@@ -1,0 +1,44 @@
+[
+    {
+        "name": "CPA Workspace",
+        "sourceFolder": "/Users/admin/Documents/html-website-practice",
+        "localRepo": "",
+        "projects": [
+            {
+                "name": "cpa_agent",
+                "path": "/Users/admin/Documents/portfolio-frontend"
+            },
+            {
+                "name": "cpa_selenium",
+                "path": "/Users/admin/Documents/html-website-practice/cpa_selenium"
+            }
+        ]
+    },
+    {
+        "name": "EIPP Workspace",
+        "sourceFolder": "/Users/admin/Documents/java-practice",
+        "localRepo": "",
+        "projects": [
+            {
+                "name": "agent_base",
+                "path": "/Users/admin/Documents/java-practice/agent_base"
+            },
+            {
+                "name": "agent_eipp",
+                "path": "/Users/admin/Documents/java-practice/agent_eipp"
+            },
+            {
+                "name": "agent_rpa",
+                "path": "/Users/admin/Documents/java-practice/agent_rpa"
+            },
+            {
+                "name": "cac_common",
+                "path": "/Users/admin/Documents/java-practice/cac_common"
+            },
+            {
+                "name": "eipp_model",
+                "path": "/Users/admin/Documents/java-practice/eipp_model"
+            }
+        ]
+    }
+]
