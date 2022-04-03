@@ -14,7 +14,7 @@ export default class Home extends React.Component {
             <Card title={workspace.name} key={workspace.name}>
                 {workspace.projects.map((project) => 
                 <>
-                    <Link to="/project" state={{ root: project.path }}><Card.Grid style={gridStyle}>{project.name}</Card.Grid></Link>
+                    <Link to="/project" path={project.path}><Card.Grid style={gridStyle}>{project.name}</Card.Grid></Link>
                 </>
                 )}
                 
